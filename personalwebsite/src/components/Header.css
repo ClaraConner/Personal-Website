@@ -1,0 +1,25 @@
+:root{
+    --darkGreen: #1E2411;
+    --mediumGreen: #39461D;
+    --lightGreen: #6E742E;
+    --maroon: #351208;
+    --red: #933D24;
+    --orange: #FF894A;
+    --lightOrange: #FFAE5E;
+    --tan: #FFDD9F;
+    --darkPurple: #2F1731;
+    --purple: #734E80;
+}
+
+.Header{
+    width: 100vw;
+    height: 10vh;
+    background-color: var(--darkGreen);
+}
+
+.C {
+    font-family: "fleuronmixed";
+    font-size: 8.8vh;
+    color: var(--lightGreen);
+    margin-left: 1.2vw;
+}
